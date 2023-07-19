@@ -1,3 +1,4 @@
+/** list style**/
 button{
     padding: 10px;
     border-radius: 50px;
@@ -5,4 +6,10 @@ button{
     font-size: 15px;
     background-color: red;
     color: #ffff;
+
+}
+p{
+    font-family: 'Inter', sans-serif;
+    font-size: 35px;
+    margin: 15px;
 }
